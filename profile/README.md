@@ -10,12 +10,6 @@
 
 ---
 
-### Project Mercury
-
-**[Introduction](https://github.com/Cygnux-Ltb/.github/blob/master/introductions/mercury-introduction-en.md)  |  [日本語紹介](https://github.com/Cygnux-Ltb/.github/blob/master/introductions/mercury-introduction-en.md)  |  [中文介绍](https://github.com/Cygnux-Ltb/.github/blob/master/introductions/mercury-introduction-en.md)**
-
----
-
 ### Zero-RPC
 
 **[Introduction](https://github.com/Cygnux-Ltb)  |  [日本語紹介](https://github.com/Cygnux-Ltb)  |  [中文介绍](https://github.com/Cygnux-Ltb)**
