@@ -1,6 +1,6 @@
 ### Cytrader Strategy Platform
 
-**[Introduction](https://github.com/Cygnux-Ltb/.github/blob/master/introductions/cygnux-introduction-en.md)  |  [日本語紹介](https://github.com/Cygnux-Ltb/.github/blob/master/introductions/cygnux-introduction-jp.md)  |  [中文介绍](https://github.com/Cygnux-Ltb/.github/blob/master/introductions/cygnux-introduction-zh.md)**
+**[Introduction](https://github.com/Cygnux-Ltb/.github/blob/master/introductions/cytrader-introduction-en.md)  |  [日本語紹介](https://github.com/Cygnux-Ltb/.github/blob/master/introductions/cytrader-introduction-jp.md)  |  [中文介绍](https://github.com/Cygnux-Ltb/.github/blob/master/introductions/cytrader-introduction-zh.md)**
 
 ---
 
